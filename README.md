@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# doctor
-doctorey
-=======
-# progama
-C:\Users\artur\Desktop\progama
->>>>>>> 5c5fa214568992e3ded67207574724525c6508c1
+
 =======
 # 🌱 Softwares – Plataforma de Tecnologias com Impacto Socioecológico
 
